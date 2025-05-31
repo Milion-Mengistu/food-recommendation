@@ -76,7 +76,7 @@ Visit: `http://127.0.0.1:5000` in your browser
 
 ## 📚 Example Food Rules
 
-Some example logic rules in `food_rules.pl`:
+Some example logic rules in `food_recommendation.pl`:
 
 ```prolog
 recommend(pancakes) :- input(morning, yes), input(sweet, yes).
@@ -102,7 +102,7 @@ recommend(fruit_juice) :- input(hot_weather, yes), input(relaxing, yes).
 
 ## 📸 Screenshot
 
-![UI Screenshot](./images/Screenshot.png)
+![UI Screenshot](/images/Screenshot.png)
 
 ---
 
