@@ -102,7 +102,7 @@ recommend(fruit_juice) :- input(hot_weather, yes), input(relaxing, yes).
 
 ## 📸 Screenshot
 
-![UI Screenshot](screenshot.png)
+![UI Screenshot](./images/Screenshot.png)
 
 ---
 
